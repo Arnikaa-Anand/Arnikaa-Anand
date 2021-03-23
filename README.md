@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arnikaa-Anand
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...machine learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...arnikrish@gmail.com
 - 📫 How to reach me ...
 
 <!---
